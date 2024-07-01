@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
