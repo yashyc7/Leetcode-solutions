@@ -20,4 +20,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashyc7/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashyc7/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashyc7/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashyc7/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
