@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/yashyc7/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashyc7/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yashyc7/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/yashyc7/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
