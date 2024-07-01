@@ -51,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashyc7/Leetcode-solutions/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/yashyc7/Leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/yashyc7/Leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
